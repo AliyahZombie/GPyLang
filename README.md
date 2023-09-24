@@ -1,6 +1,6 @@
 # GPyLang - ChatGPT Powered Script Language
 
-[中](README_CN.md)/[EN](README.md)
+### <center>[中CN](README_CN.md)/[EN](README.md)</center>
 
 GPyLang is a programming language powered by ChatGPT, designed to have a Python-like syntax with some unique features. As a compiler for GPyLang, it follows specific rules and conventions to translate GPyLang code into standard Python code.
 

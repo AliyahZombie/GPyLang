@@ -1,6 +1,6 @@
 # GPyLang - 大语言模型驱动的脚本语言
 
-[中](README_CN.md)/[EN](README.md)
+### <center>[中CN](README_CN.md)/[EN](README.md)</center>
 
 GPyLang是由大语言模型驱动的编程语言，旨在具有类似Python的语法，并具备一些独特功能。GPyLang编译器通过特定规则，将GPyLang代码转化为标准Python代码。
 
